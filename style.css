@@ -136,6 +136,7 @@ p {
   display: flex;
   align-items: center;
   flex-flow: row wrap;
+  width: 80%;
   
 }
 
